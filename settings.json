@@ -1,0 +1,15 @@
+{
+    "base_color_hex": "#f7e7ce",
+    "width": "4096",
+    "height": "4096",
+    "darkness": 30,
+    "contours": [
+        "#e6e6fa"
+    ],
+    "contour_padding": 100,
+    "radius": 1024,
+    "format": "PNG",
+    "direction": "Haut-Droit vers Bas-Gauche",
+    "perfect_darkness": true,
+    "perfect_roundness": true
+}
